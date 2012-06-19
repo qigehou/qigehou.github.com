@@ -1,9 +1,9 @@
 ﻿body {
-	background:#F6F7F8
+	background:#cccccc
 }
 .header {
 	height:680px;
-	background:url(../images/header_bg.png);
+	background:url(../img/header_bg.png);
 	width:100%;
 }
 .header,.bd,.ft {
@@ -34,13 +34,13 @@
 }
 .switch {
 	margin:20px 0 0 158px;
-	background:url(../images/mione.png?20110830) 1px 0;
+	background:url(../img/mione.png?20110830) 1px 0;
 	width:273px;
 	height:580px;
 	display:inline;
 }
 
-*html .switch{background: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='crop', src='images/mione.png?20110830');}
+*html .switch{background: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='crop', src='img/mione.png?20110830');}
 
 .switch .box {
 	margin:84px 24px 0 30px;
@@ -78,7 +78,7 @@
 	width:122px;
 	margin-right:20px;
 	height:84px;
-	background:url(../images/dl_class.png?201107062007) no-repeat;
+	background:url(../img/dl_class.png?201107062007) no-repeat;
 }
 .dl ul li a:hover{ background-position:0 100%;  }
 .dl ul li a:hover.iphone{ background-position:-121px 100%;  }
@@ -99,7 +99,7 @@
 	margin:36px 0 0 0;
 	/*
 	padding-left:280px;
-	background:url(../images/funs.png) no-repeat;
+	background:url(../img/funs.png) no-repeat;
 	*/
 	height:172px;
 }
@@ -150,11 +150,11 @@
 	padding:0 24px;
 }
 .side .sidetop {
-	background:url(../images/side_top.png) no-repeat;
+	background:url(../img/side_top.png) no-repeat;
 	height:20px;
 }
 .side .sidebot {
-	background:url(../images/side_bot.png) no-repeat;
+	background:url(../img/side_bot.png) no-repeat;
 	height:20px;
 }
 .side .ct .about {
@@ -197,7 +197,7 @@
 	line-height:24px;
 }
 .starts .left {
-	background:url(../images/starts.png) no-repeat;
+	background:url(../img/starts.png) no-repeat;
 	padding-top:24px;
 	color:#a9aaab;
 	font-size:12px;
@@ -211,14 +211,14 @@
 	color:#000
 }
 .miniblog_sina a {
-	background:url(../images/miniblog.png?201107062007) no-repeat;
+	background:url(../img/miniblog.png?201107062007) no-repeat;
 	height:42px;
 	width:184px;
 	display:block
 }
 .miniblog_sina a:hover{ background-position:100% 0;}
 .miniblog_qq a {
-	background:url(../images/miniblog.png) no-repeat 0 -48px;
+	background:url(../img/miniblog.png) no-repeat 0 -48px;
 	height:42px;
 	width:184px;
 	display:block
@@ -235,7 +235,7 @@
 }
 .short {
 	height:92px;
-	background:url(../images/header_short_bg.png);
+	background:url(../img/header_short_bg.png);
 	width:100%;
 }
 .box {
@@ -280,15 +280,15 @@
 	zoom:1
 }
 .dl_button {
-	background:url(../images/dl_bg.png) no-repeat;
+	background:url(../img/dl_bg.png) no-repeat;
 	padding-left:10px
 }
 .dl_button .dl_button_r {
-	background:url(../images/dl_bg.png) no-repeat 100% 0;
+	background:url(../img/dl_bg.png) no-repeat 100% 0;
 	padding-right:10px;
 }
 .dl_button .dl_button_ct {
-	background:url(../images/dl_bg.png) repeat-x 0 -48px;
+	background:url(../img/dl_bg.png) repeat-x 0 -48px;
 	line-height:47px;
 	height:47px;
 	color:#FFF
@@ -305,7 +305,7 @@
 	padding:20px;
 }
 .series .type {
-	background:#f8f8f8 url(../images/types_bg.png) repeat-x;
+	background:#f8f8f8 url(../img/types_bg.png) repeat-x;
 	padding-left:22px;
 	border-bottom:1px solid #e0e0e0;
 	height:44px;
@@ -313,7 +313,7 @@
 .series .type h4 {
 	height:44px;
 	font:bold 14px/44px normal;
-	background:url(../images/types_bg.png) no-repeat 0px -90px;
+	background:url(../img/types_bg.png) no-repeat 0px -90px;
 	padding-left:24px;
 	cursor:pointer
 }
@@ -363,7 +363,7 @@
 .dialog .title {
 	font:bold 14px/36px normal;
 	color:#fff;
-	background:url("../images/dialog.png") repeat-x;
+	background:url("../img/dialog.png") repeat-x;
 	height:42px;
 	padding-left:10px;
 }
@@ -394,16 +394,16 @@
 	margin-right:10px;
 }
 .faq_nav li a.faq_and {
-	background:url("../images/faq_and.gif") no-repeat scroll 0 -60px transparent;
+	background:url("../img/faq_and.gif") no-repeat scroll 0 -60px transparent;
 }
 .faq_nav li a.faq_iphone {
-	background:url("../images/faq_iphone.gif") no-repeat scroll 0 -60px transparent;
+	background:url("../img/faq_iphone.gif") no-repeat scroll 0 -60px transparent;
 }
 .faq_nav li a.faq_v3 {
-	background:url("../images/faq_v3.gif") no-repeat scroll 0 -60px transparent;
+	background:url("../img/faq_v3.gif") no-repeat scroll 0 -60px transparent;
 }
 .faq_nav li a.faq_s60 {
-	background:url("../images/faq_s60.gif") no-repeat scroll 0 -60px transparent;
+	background:url("../img/faq_s60.gif") no-repeat scroll 0 -60px transparent;
 }
 .faq_nav li.sel a {
 	background-position:0 0;
@@ -475,7 +475,7 @@
 	padding-top:40px;
 }
 .ico-mac {
-	background:url(../images/mac.gif) no-repeat;
+	background:url(../img/mac.gif) no-repeat;
 	width:55px;
 	height:68px;
 	margin:0 auto;
@@ -487,7 +487,7 @@
 }
 .btn172 {
 	display:block;
-	background:url(../images/btn172.gif) no-repeat;
+	background:url(../img/btn172.gif) no-repeat;
 	width:172px;
 	height:46px;
 	line-height:120%;
@@ -519,13 +519,13 @@
 	text-align:center;
 }
 .ico-android {
-	background:url(../images/android.gif) no-repeat;
+	background:url(../img/android.gif) no-repeat;
 	width:56px;
 	height:68px;
 	margin:0 auto;
 }
 .ico-symbian {
-	background:url(../images/symbian.gif) no-repeat;
+	background:url(../img/symbian.gif) no-repeat;
 	width:157px;
 	height:68px;
 	margin:0 auto;
@@ -547,7 +547,7 @@
 }
 .btn112 {
 	display:block;
-	background:url(../images/btn112.gif) no-repeat;
+	background:url(../img/btn112.gif) no-repeat;
 	width:112px;
 	height:46px;
 	line-height:120%;
@@ -574,7 +574,7 @@
 	display:block;
 }
 .apk {
-	background:url(../images/apk.png) no-repeat;
+	background:url(../img/apk.png) no-repeat;
 	width:192px;
 	height:192px;
 	border:1px solid #CCC;
@@ -582,7 +582,7 @@
 	display:none;
 }
 .ipa {
-	background:url(../images/ipa.png) no-repeat;
+	background:url(../img/ipa.png) no-repeat;
 	width:192px;
 	height:192px;
 	border:1px solid #CCC;
@@ -621,13 +621,13 @@
 .concicolist .blue{ color:#0069CA}
 .concicolist dt{font-weight:bold}
 .concicolist dl{padding-left:70px;}
-.concicolist li.pp{ background:url("/images/con_pp.gif") no-repeat}
-.concicolist li.sw{ background:url("/images/con_sw.gif") no-repeat}
-.concicolist li.mt{ background:url("/images/con_mt.gif") no-repeat}
-.concicolist li.yys{ background:url("/images/con_yys.gif") no-repeat}
-.concicolist li.yjfk{ background:url("/images/con_yjfk.gif") no-repeat}
-.concicolist li.gd{ background:url("/images/con_gd.gif") no-repeat}
-.concicolist li.quyu{ background:url("/images/conico5.gif") no-repeat}
+.concicolist li.pp{ background:url("/img/con_pp.gif") no-repeat}
+.concicolist li.sw{ background:url("/img/con_sw.gif") no-repeat}
+.concicolist li.mt{ background:url("/img/con_mt.gif") no-repeat}
+.concicolist li.yys{ background:url("/img/con_yys.gif") no-repeat}
+.concicolist li.yjfk{ background:url("/img/con_yjfk.gif") no-repeat}
+.concicolist li.gd{ background:url("/img/con_gd.gif") no-repeat}
+.concicolist li.quyu{ background:url("/img/conico5.gif") no-repeat}
 .adlist {
 	overflow:hidden;
 	zoom:1;
@@ -655,8 +655,8 @@ ul.l1,ul.l2,ul.l3 {
 	line-height:180%;
 	padding:20px;
 }
-.dl_btn a{width:213px;height:60px;background:url("../images/dl.png?20110706") no-repeat 0 0;display:block;text-indent: -99px;overflow:hidden}
-.dl_btn a:hover { background:url("../images/dl.png") no-repeat 0 -63px;}
+.dl_btn a{width:213px;height:60px;background:url("../img/dl.png?20110706") no-repeat 0 0;display:block;text-indent: -99px;overflow:hidden}
+.dl_btn a:hover { background:url("../img/dl.png") no-repeat 0 -63px;}
 
 
 .homead{ width:1000px; margin: 20px auto 0;}
